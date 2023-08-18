@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml:1:1-6:12
+INJECTED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml:5:5-58
+INJECTED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml:5:5-58
+INJECTED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml:5:5-58
+INJECTED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml:5:5-58
+INJECTED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml:5:5-58
+	tools:overrideLibrary
+		ADDED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml:5:15-56
+	android:targetSdkVersion
+		INJECTED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml:5:5-58
+		INJECTED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml:5:5-58
+		INJECTED from C:\Users\BisKIRAN_RJ\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-5.0.2\android\src\main\AndroidManifest.xml

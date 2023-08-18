@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Socket server</title>
+</head>
+<body>
+    <h2>Hola</h2>
+    <script src="socket.io/socket.io.js"></script>
+    <script>
+        var socket = io();
+        socket.on('connect',function(){
+            console.log('Conectting to Server');
+        });
+        socket.on('disconnect',function(){      
+            console.log('Disconnecting from Server');
+        });
+
+        //emitir evento
+        socket.emit('message',{name:'RODRIGO'});
+        socket.on('supermessage',function(payload){
+            console.log('Answer from Emitted Message:','HELLO '+payload['admin']);
+        });
+    </script>
+</body>
+</html>

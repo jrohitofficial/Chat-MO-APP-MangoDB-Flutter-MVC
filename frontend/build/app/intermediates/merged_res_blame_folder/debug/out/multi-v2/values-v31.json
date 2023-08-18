@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\BisKIRAN_RJ\\Desktop\\Chat Flutter\\frontend\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v31\\values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\BisKIRAN_RJ\\Desktop\\Chat Flutter\\frontend\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
+                    "from": {
+                        "startLines": "3,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,900",
+                        "endLines": "8,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "549,1064"
+                    },
+                    "to": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,436",
+                        "endLines": "7,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "431,600"
+                    }
+                }
+            ]
+        }
+    ]
+}

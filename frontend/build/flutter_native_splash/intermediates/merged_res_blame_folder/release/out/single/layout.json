@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\BisKIRAN_RJ\\Desktop\\Chat Flutter\\frontend\\build\\flutter_native_splash\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\BisKIRAN_RJ\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\BisKIRAN_RJ\\Desktop\\Chat Flutter\\frontend\\build\\flutter_native_splash\\intermediates\\merged_res\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\BisKIRAN_RJ\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\BisKIRAN_RJ\\Desktop\\Chat Flutter\\frontend\\build\\flutter_native_splash\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\BisKIRAN_RJ\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\BisKIRAN_RJ\\Desktop\\Chat Flutter\\frontend\\build\\flutter_native_splash\\intermediates\\merged_res\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\BisKIRAN_RJ\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\BisKIRAN_RJ\\Desktop\\Chat Flutter\\frontend\\build\\flutter_native_splash\\intermediates\\merged_res\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\BisKIRAN_RJ\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\BisKIRAN_RJ\\Desktop\\Chat Flutter\\frontend\\build\\flutter_native_splash\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\BisKIRAN_RJ\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]
